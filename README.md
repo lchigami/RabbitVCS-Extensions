@@ -1,7 +1,7 @@
 RabbitVCS-Extensions
 ====================
 
-RabbitVCS Extensions written in Python to be used to some file managers
+RabbitVCS Extensions written in Python to be used with some file managers
 
 To use these extensions, make sure you have installed the python modules for your file manager:
 
